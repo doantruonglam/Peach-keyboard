@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Peach-library")(type "KiCad")(uri "${KIPRJMOD}/Peach-library.pretty")(options "")(descr ""))
+)
